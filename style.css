@@ -56,7 +56,7 @@ body{
 }
 
 .box2{
-  margin-left:900px; margin-top: -210px;
+  margin-left:1000px; margin-top: -210px;
   background-image:url(download.jfif); 
   background-size: contain;
   background-repeat: no-repeat;
@@ -68,7 +68,7 @@ body{
 }
 
 .box4{
-    position:relative; top:-128px; left: 900px;
+    position:relative; top:-128px; left: 1000px;
 }
 
 .parent{
